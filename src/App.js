@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  const greeting = "Иванов Илья Александрович";
+  const greeting = "Иванов Илья Александровичаа";
 
   console.log('This is App ');
   return (
